@@ -1,0 +1,16 @@
+D:\C# Tasks\20220123-Task3\solution-9\bin\Debug\net5.0\solution-9.exe
+D:\C# Tasks\20220123-Task3\solution-9\bin\Debug\net5.0\solution-9.deps.json
+D:\C# Tasks\20220123-Task3\solution-9\bin\Debug\net5.0\solution-9.runtimeconfig.json
+D:\C# Tasks\20220123-Task3\solution-9\bin\Debug\net5.0\solution-9.runtimeconfig.dev.json
+D:\C# Tasks\20220123-Task3\solution-9\bin\Debug\net5.0\solution-9.dll
+D:\C# Tasks\20220123-Task3\solution-9\bin\Debug\net5.0\ref\solution-9.dll
+D:\C# Tasks\20220123-Task3\solution-9\bin\Debug\net5.0\solution-9.pdb
+D:\C# Tasks\20220123-Task3\solution-9\obj\Debug\net5.0\solution-9.csproj.AssemblyReference.cache
+D:\C# Tasks\20220123-Task3\solution-9\obj\Debug\net5.0\solution-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tasks\20220123-Task3\solution-9\obj\Debug\net5.0\solution-9.AssemblyInfoInputs.cache
+D:\C# Tasks\20220123-Task3\solution-9\obj\Debug\net5.0\solution-9.AssemblyInfo.cs
+D:\C# Tasks\20220123-Task3\solution-9\obj\Debug\net5.0\solution-9.csproj.CoreCompileInputs.cache
+D:\C# Tasks\20220123-Task3\solution-9\obj\Debug\net5.0\solution-9.dll
+D:\C# Tasks\20220123-Task3\solution-9\obj\Debug\net5.0\ref\solution-9.dll
+D:\C# Tasks\20220123-Task3\solution-9\obj\Debug\net5.0\solution-9.pdb
+D:\C# Tasks\20220123-Task3\solution-9\obj\Debug\net5.0\solution-9.genruntimeconfig.cache
